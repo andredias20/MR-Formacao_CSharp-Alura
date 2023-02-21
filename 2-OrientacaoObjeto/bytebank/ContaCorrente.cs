@@ -15,6 +15,7 @@ namespace bytebank
         public double saldo;
 
 
+
         public void Depositar(double valor)
         {
             this.saldo += valor;
@@ -46,7 +47,16 @@ namespace bytebank
                 return false;
             }
         }
+    
+        public override string ToString()
+        {
+            return "ContaCorrente = { " +
+                "titular = '" + this.titular +
+                "' agencia = '" +this.agencia +
+                "' conta = '" + this.conta +
+                "' saldo = '" + this.saldo + 
+                "' }";
+        }
     }
-
 
 }

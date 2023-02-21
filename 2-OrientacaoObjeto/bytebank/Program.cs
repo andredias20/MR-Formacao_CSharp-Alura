@@ -8,15 +8,17 @@ contaAndre.conta = "1010-X";
 contaAndre.agencia = 15;
 contaAndre.saldo = 1000.00;
 
-Console.WriteLine($"O saldo da conta do {contaAndre.titular} = R${contaAndre.saldo}");
+Console.WriteLine(contaAndre);
 
-ContaCorrente contaMaria = new ContaCorrente();
-contaMaria.titular = "Maria Souza";
-contaMaria.agencia = 17;
-contaMaria.conta = "1010-5";
-contaMaria.saldo = 350;
+//Console.WriteLine($"O saldo da conta do {contaAndre.titular} = R${contaAndre.saldo}");
 
-Console.WriteLine($"O saldo da conta do {contaMaria.titular} = R${contaMaria.saldo}");
+//ContaCorrente contaMaria = new ContaCorrente();
+//contaMaria.titular = "Maria Souza";
+//contaMaria.agencia = 17;
+//contaMaria.conta = "1010-5";
+//contaMaria.saldo = 350;
+
+//Console.WriteLine($"O saldo da conta do {contaMaria.titular} = R${contaMaria.saldo}");
 
 /*// Teste Deposito
 
