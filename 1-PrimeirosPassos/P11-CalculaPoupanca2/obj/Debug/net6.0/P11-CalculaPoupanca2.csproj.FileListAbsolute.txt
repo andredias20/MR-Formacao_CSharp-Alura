@@ -1,0 +1,15 @@
+D:\Desenvolvimento\dev\Alura\CursoCSharp\P11-CalculaPoupanca2\bin\Debug\net6.0\P11-CalculaPoupanca2.exe
+D:\Desenvolvimento\dev\Alura\CursoCSharp\P11-CalculaPoupanca2\bin\Debug\net6.0\P11-CalculaPoupanca2.deps.json
+D:\Desenvolvimento\dev\Alura\CursoCSharp\P11-CalculaPoupanca2\bin\Debug\net6.0\P11-CalculaPoupanca2.runtimeconfig.json
+D:\Desenvolvimento\dev\Alura\CursoCSharp\P11-CalculaPoupanca2\bin\Debug\net6.0\P11-CalculaPoupanca2.dll
+D:\Desenvolvimento\dev\Alura\CursoCSharp\P11-CalculaPoupanca2\bin\Debug\net6.0\P11-CalculaPoupanca2.pdb
+D:\Desenvolvimento\dev\Alura\CursoCSharp\P11-CalculaPoupanca2\obj\Debug\net6.0\P11-CalculaPoupanca2.csproj.AssemblyReference.cache
+D:\Desenvolvimento\dev\Alura\CursoCSharp\P11-CalculaPoupanca2\obj\Debug\net6.0\P11-CalculaPoupanca2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\dev\Alura\CursoCSharp\P11-CalculaPoupanca2\obj\Debug\net6.0\P11-CalculaPoupanca2.AssemblyInfoInputs.cache
+D:\Desenvolvimento\dev\Alura\CursoCSharp\P11-CalculaPoupanca2\obj\Debug\net6.0\P11-CalculaPoupanca2.AssemblyInfo.cs
+D:\Desenvolvimento\dev\Alura\CursoCSharp\P11-CalculaPoupanca2\obj\Debug\net6.0\P11-CalculaPoupanca2.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\dev\Alura\CursoCSharp\P11-CalculaPoupanca2\obj\Debug\net6.0\P11-CalculaPoupanca2.dll
+D:\Desenvolvimento\dev\Alura\CursoCSharp\P11-CalculaPoupanca2\obj\Debug\net6.0\refint\P11-CalculaPoupanca2.dll
+D:\Desenvolvimento\dev\Alura\CursoCSharp\P11-CalculaPoupanca2\obj\Debug\net6.0\P11-CalculaPoupanca2.pdb
+D:\Desenvolvimento\dev\Alura\CursoCSharp\P11-CalculaPoupanca2\obj\Debug\net6.0\P11-CalculaPoupanca2.genruntimeconfig.cache
+D:\Desenvolvimento\dev\Alura\CursoCSharp\P11-CalculaPoupanca2\obj\Debug\net6.0\ref\P11-CalculaPoupanca2.dll

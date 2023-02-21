@@ -1,0 +1,15 @@
+D:\Desenvolvimento\dev\Alura\CursoCSharp\Aula06\obj\Debug\net6.0\Aula06.csproj.AssemblyReference.cache
+D:\Desenvolvimento\dev\Alura\CursoCSharp\Aula06\obj\Debug\net6.0\Aula06.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\dev\Alura\CursoCSharp\Aula06\obj\Debug\net6.0\Aula06.AssemblyInfoInputs.cache
+D:\Desenvolvimento\dev\Alura\CursoCSharp\Aula06\obj\Debug\net6.0\Aula06.AssemblyInfo.cs
+D:\Desenvolvimento\dev\Alura\CursoCSharp\Aula06\obj\Debug\net6.0\Aula06.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\dev\Alura\CursoCSharp\Aula06\bin\Debug\net6.0\Aula06.exe
+D:\Desenvolvimento\dev\Alura\CursoCSharp\Aula06\bin\Debug\net6.0\Aula06.deps.json
+D:\Desenvolvimento\dev\Alura\CursoCSharp\Aula06\bin\Debug\net6.0\Aula06.runtimeconfig.json
+D:\Desenvolvimento\dev\Alura\CursoCSharp\Aula06\bin\Debug\net6.0\Aula06.dll
+D:\Desenvolvimento\dev\Alura\CursoCSharp\Aula06\bin\Debug\net6.0\Aula06.pdb
+D:\Desenvolvimento\dev\Alura\CursoCSharp\Aula06\obj\Debug\net6.0\Aula06.dll
+D:\Desenvolvimento\dev\Alura\CursoCSharp\Aula06\obj\Debug\net6.0\refint\Aula06.dll
+D:\Desenvolvimento\dev\Alura\CursoCSharp\Aula06\obj\Debug\net6.0\Aula06.pdb
+D:\Desenvolvimento\dev\Alura\CursoCSharp\Aula06\obj\Debug\net6.0\Aula06.genruntimeconfig.cache
+D:\Desenvolvimento\dev\Alura\CursoCSharp\Aula06\obj\Debug\net6.0\ref\Aula06.dll

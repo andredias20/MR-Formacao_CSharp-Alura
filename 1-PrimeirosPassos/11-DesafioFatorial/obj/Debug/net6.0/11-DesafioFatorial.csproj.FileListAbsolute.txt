@@ -1,0 +1,15 @@
+D:\Desenvolvimento\dev\Alura\CursoCSharp\11-DesafioFatorial\bin\Debug\net6.0\11-DesafioFatorial.exe
+D:\Desenvolvimento\dev\Alura\CursoCSharp\11-DesafioFatorial\bin\Debug\net6.0\11-DesafioFatorial.deps.json
+D:\Desenvolvimento\dev\Alura\CursoCSharp\11-DesafioFatorial\bin\Debug\net6.0\11-DesafioFatorial.runtimeconfig.json
+D:\Desenvolvimento\dev\Alura\CursoCSharp\11-DesafioFatorial\bin\Debug\net6.0\11-DesafioFatorial.dll
+D:\Desenvolvimento\dev\Alura\CursoCSharp\11-DesafioFatorial\bin\Debug\net6.0\11-DesafioFatorial.pdb
+D:\Desenvolvimento\dev\Alura\CursoCSharp\11-DesafioFatorial\obj\Debug\net6.0\11-DesafioFatorial.csproj.AssemblyReference.cache
+D:\Desenvolvimento\dev\Alura\CursoCSharp\11-DesafioFatorial\obj\Debug\net6.0\11-DesafioFatorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\dev\Alura\CursoCSharp\11-DesafioFatorial\obj\Debug\net6.0\11-DesafioFatorial.AssemblyInfoInputs.cache
+D:\Desenvolvimento\dev\Alura\CursoCSharp\11-DesafioFatorial\obj\Debug\net6.0\11-DesafioFatorial.AssemblyInfo.cs
+D:\Desenvolvimento\dev\Alura\CursoCSharp\11-DesafioFatorial\obj\Debug\net6.0\11-DesafioFatorial.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\dev\Alura\CursoCSharp\11-DesafioFatorial\obj\Debug\net6.0\11-DesafioFatorial.dll
+D:\Desenvolvimento\dev\Alura\CursoCSharp\11-DesafioFatorial\obj\Debug\net6.0\refint\11-DesafioFatorial.dll
+D:\Desenvolvimento\dev\Alura\CursoCSharp\11-DesafioFatorial\obj\Debug\net6.0\11-DesafioFatorial.pdb
+D:\Desenvolvimento\dev\Alura\CursoCSharp\11-DesafioFatorial\obj\Debug\net6.0\11-DesafioFatorial.genruntimeconfig.cache
+D:\Desenvolvimento\dev\Alura\CursoCSharp\11-DesafioFatorial\obj\Debug\net6.0\ref\11-DesafioFatorial.dll
