@@ -1,14 +1,14 @@
 ﻿using bytebank;
 
 Console.WriteLine("Seja bem vindo ao Bytebank");
-ContaCorrente contaAndre = new ContaCorrente();
+//ContaCorrente contaAndre = new ContaCorrente();
 
-contaAndre.titular = "André";
-contaAndre.conta = "1010-X";
-contaAndre.agencia = 15;
-contaAndre.saldo = 1000.00;
+//contaAndre.titular = "André";
+//contaAndre.conta = "1010-X";
+//contaAndre.agencia = 15;
+//contaAndre.saldo = 1000.00;
 
-Console.WriteLine(contaAndre);
+//Console.WriteLine(contaAndre);
 
 //Console.WriteLine($"O saldo da conta do {contaAndre.titular} = R${contaAndre.saldo}");
 
@@ -43,5 +43,14 @@ if (contaAndre.Transferir(100, contaMaria))
 Console.WriteLine($"O saldo da conta do {contaAndre.titular} = R${contaAndre.saldo}");
 Console.WriteLine($"O saldo da conta do {contaMaria.titular} = R${contaMaria.saldo}");
 */
+
+Cliente cliente = new Cliente();
+
+cliente.nome = "Andre Silva";
+cliente.cpf = "093.168.654-03";
+cliente.profissao = "Analista";
+
+ContaCorrente conta1 = new ContaCorrente();
+
 
 Console.ReadKey();
